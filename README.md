@@ -81,7 +81,7 @@ This project is licensed under the MIT License.
 
 <div align="center">
 <p><strong>Stop letting distractions win. Install ZenGuard and start achieving your goals today.</strong></p>
-<a href="[https://chromewebstore.google.com/detail/zenguard-website-blocker/mopaajinnffmaiedipccloghjfndalod]">
+<a href="https://chromewebstore.google.com/detail/zenguard-website-blocker/mopaajinnffmaiedipccloghjfndalod">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Get%2520ZenGuard%2520on%2520the%2520Chrome%2520Web%2520Store-blue%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" alt="Install ZenGuard from the Chrome Web Store">
 </a>
 </div>

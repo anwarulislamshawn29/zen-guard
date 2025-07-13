@@ -6,7 +6,7 @@ ZenGuard: The Ultimate Website Blocker & Focus Timer for Chrome
 </p>
 <p>
 <a href="https://chromewebstore.google.com/detail/zenguard-website-blocker/mopaajinnffmaiedipccloghjfndalod">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Chrome%2520Web%2520Store-Install%2520ZenGuard-blue%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" alt="Install ZenGuard from the Chrome Web Store">
+<img src="icons/zen-guard-canvas.png" alt="Install ZenGuard from the Chrome Web Store">
 </a>
 </p>
 </div>
@@ -16,7 +16,7 @@ ZenGuard is a powerful productivity tool and website blocker for Google Chrome, 
 Whether you're a student needing to study for exams, a professional on a tight deadline, or anyone looking to build healthier digital habits, ZenGuard provides a comprehensive toolkit to stop procrastination and boost your productivity.
 
 <div align="center">
-<img src="[LINK_TO_YOUR_MAIN_PROMOTIONAL_SCREENSHOT_OR_GIF.png]" alt="ZenGuard in action, blocking a distracting website">
+<img src="icons/zen-guard-banner.png" alt="ZenGuard in action, blocking a distracting website">
 </div>
 
 🔥 Key Features

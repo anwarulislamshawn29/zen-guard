@@ -5,7 +5,7 @@ ZenGuard: The Ultimate Website Blocker & Focus Timer for Chrome
 <strong>Silence the noise. Reclaim your focus. Stop procrastinating.</strong>
 </p>
 <p>
-<a href="[https://www.google.com/search?q=%5BLINK_TO_YOUR_CHROME_WEB_STORE_PAGE%5D](https://chromewebstore.google.com/detail/zenguard-website-blocker/mopaajinnffmaiedipccloghjfndalod">
+<a href="https://chromewebstore.google.com/detail/zenguard-website-blocker/mopaajinnffmaiedipccloghjfndalod">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Chrome%2520Web%2520Store-Install%2520ZenGuard-blue%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" alt="Install ZenGuard from the Chrome Web Store">
 </a>
 </p>

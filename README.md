@@ -1,6 +1,6 @@
 ZenGuard: The Ultimate Website Blocker & Focus Timer for Chrome
 <div align="center">
-<img src="[LINK_TO_YOUR_LOGO_ICON_128x128.png]" alt="ZenGuard Logo" width="128">
+<img src="icons/icon128.png" alt="ZenGuard Logo" width="128">
 <p>
 <strong>Silence the noise. Reclaim your focus. Stop procrastinating.</strong>
 </p>
